@@ -1,0 +1,12 @@
+/Users/ka/Documents/C#/Lesson 1 Activity/obj/Debug/netcoreapp3.1/Lesson 1 Activity.csprojAssemblyReference.cache
+/Users/ka/Documents/C#/Lesson 1 Activity/obj/Debug/netcoreapp3.1/Lesson 1 Activity.AssemblyInfoInputs.cache
+/Users/ka/Documents/C#/Lesson 1 Activity/obj/Debug/netcoreapp3.1/Lesson 1 Activity.AssemblyInfo.cs
+/Users/ka/Documents/C#/Lesson 1 Activity/obj/Debug/netcoreapp3.1/Lesson 1 Activity.csproj.CoreCompileInputs.cache
+/Users/ka/Documents/C#/Lesson 1 Activity/bin/Debug/netcoreapp3.1/Lesson 1 Activity.deps.json
+/Users/ka/Documents/C#/Lesson 1 Activity/bin/Debug/netcoreapp3.1/Lesson 1 Activity.runtimeconfig.json
+/Users/ka/Documents/C#/Lesson 1 Activity/bin/Debug/netcoreapp3.1/Lesson 1 Activity.runtimeconfig.dev.json
+/Users/ka/Documents/C#/Lesson 1 Activity/bin/Debug/netcoreapp3.1/Lesson 1 Activity.dll
+/Users/ka/Documents/C#/Lesson 1 Activity/bin/Debug/netcoreapp3.1/Lesson 1 Activity.pdb
+/Users/ka/Documents/C#/Lesson 1 Activity/obj/Debug/netcoreapp3.1/Lesson 1 Activity.dll
+/Users/ka/Documents/C#/Lesson 1 Activity/obj/Debug/netcoreapp3.1/Lesson 1 Activity.pdb
+/Users/ka/Documents/C#/Lesson 1 Activity/obj/Debug/netcoreapp3.1/Lesson 1 Activity.genruntimeconfig.cache
