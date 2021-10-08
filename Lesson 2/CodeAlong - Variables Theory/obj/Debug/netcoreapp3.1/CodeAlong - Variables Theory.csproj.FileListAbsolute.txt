@@ -1,0 +1,12 @@
+/Users/ka/Documents/C#/Lesson 2/CodeAlong - Variables Theory/obj/Debug/netcoreapp3.1/CodeAlong - Variables Theory.csprojAssemblyReference.cache
+/Users/ka/Documents/C#/Lesson 2/CodeAlong - Variables Theory/obj/Debug/netcoreapp3.1/CodeAlong - Variables Theory.AssemblyInfoInputs.cache
+/Users/ka/Documents/C#/Lesson 2/CodeAlong - Variables Theory/obj/Debug/netcoreapp3.1/CodeAlong - Variables Theory.AssemblyInfo.cs
+/Users/ka/Documents/C#/Lesson 2/CodeAlong - Variables Theory/obj/Debug/netcoreapp3.1/CodeAlong - Variables Theory.csproj.CoreCompileInputs.cache
+/Users/ka/Documents/C#/Lesson 2/CodeAlong - Variables Theory/bin/Debug/netcoreapp3.1/CodeAlong - Variables Theory.deps.json
+/Users/ka/Documents/C#/Lesson 2/CodeAlong - Variables Theory/bin/Debug/netcoreapp3.1/CodeAlong - Variables Theory.runtimeconfig.json
+/Users/ka/Documents/C#/Lesson 2/CodeAlong - Variables Theory/bin/Debug/netcoreapp3.1/CodeAlong - Variables Theory.runtimeconfig.dev.json
+/Users/ka/Documents/C#/Lesson 2/CodeAlong - Variables Theory/bin/Debug/netcoreapp3.1/CodeAlong - Variables Theory.dll
+/Users/ka/Documents/C#/Lesson 2/CodeAlong - Variables Theory/bin/Debug/netcoreapp3.1/CodeAlong - Variables Theory.pdb
+/Users/ka/Documents/C#/Lesson 2/CodeAlong - Variables Theory/obj/Debug/netcoreapp3.1/CodeAlong - Variables Theory.dll
+/Users/ka/Documents/C#/Lesson 2/CodeAlong - Variables Theory/obj/Debug/netcoreapp3.1/CodeAlong - Variables Theory.pdb
+/Users/ka/Documents/C#/Lesson 2/CodeAlong - Variables Theory/obj/Debug/netcoreapp3.1/CodeAlong - Variables Theory.genruntimeconfig.cache

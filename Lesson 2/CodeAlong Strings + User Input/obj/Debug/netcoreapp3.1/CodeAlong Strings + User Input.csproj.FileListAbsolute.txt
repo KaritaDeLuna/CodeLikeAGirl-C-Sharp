@@ -1,0 +1,12 @@
+/Users/ka/Documents/C#/Lesson 2/CodeAlong Strings + User Input/obj/Debug/netcoreapp3.1/CodeAlong Strings + User Input.csprojAssemblyReference.cache
+/Users/ka/Documents/C#/Lesson 2/CodeAlong Strings + User Input/obj/Debug/netcoreapp3.1/CodeAlong Strings + User Input.AssemblyInfoInputs.cache
+/Users/ka/Documents/C#/Lesson 2/CodeAlong Strings + User Input/obj/Debug/netcoreapp3.1/CodeAlong Strings + User Input.AssemblyInfo.cs
+/Users/ka/Documents/C#/Lesson 2/CodeAlong Strings + User Input/obj/Debug/netcoreapp3.1/CodeAlong Strings + User Input.csproj.CoreCompileInputs.cache
+/Users/ka/Documents/C#/Lesson 2/CodeAlong Strings + User Input/bin/Debug/netcoreapp3.1/CodeAlong Strings + User Input.deps.json
+/Users/ka/Documents/C#/Lesson 2/CodeAlong Strings + User Input/bin/Debug/netcoreapp3.1/CodeAlong Strings + User Input.runtimeconfig.json
+/Users/ka/Documents/C#/Lesson 2/CodeAlong Strings + User Input/bin/Debug/netcoreapp3.1/CodeAlong Strings + User Input.runtimeconfig.dev.json
+/Users/ka/Documents/C#/Lesson 2/CodeAlong Strings + User Input/bin/Debug/netcoreapp3.1/CodeAlong Strings + User Input.dll
+/Users/ka/Documents/C#/Lesson 2/CodeAlong Strings + User Input/bin/Debug/netcoreapp3.1/CodeAlong Strings + User Input.pdb
+/Users/ka/Documents/C#/Lesson 2/CodeAlong Strings + User Input/obj/Debug/netcoreapp3.1/CodeAlong Strings + User Input.dll
+/Users/ka/Documents/C#/Lesson 2/CodeAlong Strings + User Input/obj/Debug/netcoreapp3.1/CodeAlong Strings + User Input.pdb
+/Users/ka/Documents/C#/Lesson 2/CodeAlong Strings + User Input/obj/Debug/netcoreapp3.1/CodeAlong Strings + User Input.genruntimeconfig.cache
